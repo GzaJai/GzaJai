@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Gonzalo Jaime, a self-taught developer getting into college in a few months.  
 I started learning how to program this year and fell in love with this vast world, and I don't know how to quit now. 😅
