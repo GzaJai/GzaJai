@@ -39,12 +39,22 @@ I started learning how to program this year and fell in love with this vast worl
   <img src="https://skillicons.dev/icons?i=nextjs" height="44" alt="nextjs logo"  />
 </div>
 <br/>
+<br/>
+
+## My stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GzaJai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GzaJai&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GzaJai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=GzaJai&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+<br/>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/GzaJai/count.svg?"  />
 </div>
 <br/>
 
-###
+
 ## Get in touch
 
 <br/>
@@ -56,7 +66,3 @@ I started learning how to program this year and fell in love with this vast worl
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="72" height="60" alt="twitter logo"  />
   </a>
 </div>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=GzaJai&color=4078c0&label=Visitas)
