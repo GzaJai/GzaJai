@@ -24,6 +24,7 @@ I started learning how to program this year and fell in love with this vast worl
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="44" alt="django logo"  />
   <img width="12" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="44" alt="sqlite logo"  />
