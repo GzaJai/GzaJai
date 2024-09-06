@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm Gonzalo Jaime, a self-taught developer getting into college in a few months.  
+I'm Gonzalo Jaime, a self-taught developer, now in college.  
 I started learning how to program this year and fell in love with this vast world, and I don't know how to quit now. 😅
 <br/>
 
-## My actual stack
+## My current stack
 <br/>
 
 <div align="center">
