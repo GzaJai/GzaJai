@@ -45,21 +45,9 @@ My journey started with self-taught learning, and over the past three years, I'v
 <br/>
 <br/>
 
-## My stats
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GzaJai&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GzaJai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=GzaJai&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 <br/>
 <div align="center">
   <a href='https://www.linkedin.com/in/gjaimeguinazu/'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  />
   </a>
+</div>
