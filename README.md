@@ -45,8 +45,13 @@ My journey started with self-taught learning, and over the past three years, I'v
 <br/>
 <br/>
 
+
+## Get in touch
 <br/>
 <div align="center">
+  <a href='https://gonzalojaime.codes'>
+    <img src="https://gonzalojaime.codes/assets/logo-BAjod6U_.png" width="72" height="60" alt="portfolio logo"  />
+  </a>
   <a href='https://www.linkedin.com/in/gjaimeguinazu/'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  />
   </a>
